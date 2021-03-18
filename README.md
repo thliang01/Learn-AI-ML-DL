@@ -1,1 +1,1 @@
-# Learn-Machine-Learning & Deep learning
+# Learn Deep learning
